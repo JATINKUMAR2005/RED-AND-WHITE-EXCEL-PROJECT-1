@@ -200,7 +200,7 @@ If you encounter issues:
 ## 📌 Version
 
 **Project:** PR.1 Fundamental Booster  
-**Last Updated:** 2024
+**Last Updated:** 2025
 
 ---
 
